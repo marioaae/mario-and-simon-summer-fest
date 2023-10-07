@@ -20,3 +20,13 @@ Germany
 3. **FRA - Frankfurt:** Direct fast and long-distance train from FRA to Siegburg Central Station. From Siegburg, there's a tram connection to Bonn.
 
 If distance to Bonn is not a concern for you, other large european airports are also available where within 3 to 4 hours by train, you could arrive to Bonn. Some other airports are Schipol - Amsterdam (AMS), Paris-Charles de Gaulle (CDG), Brussels Airport (BRU).
+
+## Transportation
+
+### Public Transportation
+
+Within the city, and Germany in general, public transportation is the best way to move around. These are the apps you will need:
+
+- VRS: This is the app you will need to check local buses, trams and metro in Bonn.
+- DB Navigator: This app is for train schedules around Germany.
+- Google Maps: just for any way of navigation.
