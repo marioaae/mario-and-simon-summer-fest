@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Location"
+date:   2023-10-07 00:00:00 +0200
+categories: wedding
+---
+
+[Waldau Guest House](https://waldau-restaurant.de) 
+
+Address:
+
+An der Waldau 50\
+53127 Bonn\
+Germany
+
+## Arriving by Air
+
+1. **CGN - Cologne/Bonn Airport:** direct bus from CGN to Bonn Central Station
+2. **DUS - Düsseldorf Airport:*** Direct regional train train from DUS to Bonn Central Station.
+3. **FRA - Frankfurt:** Direct fast and long-distance train from FRA to Siegburg Central Station. From Siegburg, there's a tram connection to Bonn.
+
+If distance to Bonn is not a concern for you, other large european airports are also available where within 3 to 4 hours by train, you could arrive to Bonn. Some other airports are Schipol - Amsterdam (AMS), Paris-Charles de Gaulle (CDG), Brussels Airport (BRU).
