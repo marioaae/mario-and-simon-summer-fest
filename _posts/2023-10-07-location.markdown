@@ -30,3 +30,8 @@ Within the city, and Germany in general, public transportation is the best way t
 - VRS: This is the app you will need to check local buses, trams and metro in Bonn.
 - DB Navigator: This app is for train schedules around Germany.
 - Google Maps: just for any way of navigation.
+
+### Taxi and Uber
+
+- Uber app: Also works in Bonn.
+- FreeNow: App that works like Uber but calls a regular taxi.
